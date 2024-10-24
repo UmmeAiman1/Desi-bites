@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874327406912",
+    "project_id": "desibites-bfebc",
+    "storage_bucket": "desibites-bfebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874327406912:android:eebc8b4719874f838be2a5",
+        "android_client_info": {
+          "package_name": "com.example.desibites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8pvMdtZj49iTujAyrsYIh91nFE1Prp5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
